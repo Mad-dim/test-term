@@ -2,4 +2,5 @@
 
 	echo 'Learn git';
 	$user = 'ViktorLomakin';
-	echo 'Test git log';
+	// Current branch master
+	echo 'Git checkout master';
