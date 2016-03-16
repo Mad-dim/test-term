@@ -2,5 +2,5 @@
 
 	echo 'Learn git';
 	$user = 'ViktorLomakin';
-	// Current branch master
-	echo 'Git checkout master';
+	// Hotfix: fixed footer
+	echo 'New branch: to create hotfix';
