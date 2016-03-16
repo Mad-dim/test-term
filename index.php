@@ -2,5 +2,5 @@
 
 	echo 'Learn git';
 	$user = 'ViktorLomakin';
-	// Current branch master
-	echo 'Git checkout master';
+	// Current branch iss53
+	echo 'Git checkout -b iss53';
